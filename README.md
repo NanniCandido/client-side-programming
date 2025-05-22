@@ -1,9 +1,9 @@
 # 🧠 JavaScript Projects – Client-Side Programming
 
+**Institution**: Nova Scotia Community College (NSCC)  
+**Program**: IT – Data Analytics  
 **Course**: PROG2700 – Client-Side Programming  
 **Instructor**: Carson Kuzniar  
-**Program**: IT – Data Analytics  
-**Institution**: Nova Scotia Community College (NSCC)  
 **Term**: Winter 2024  
 
 This repository presents selected assignments that explore JavaScript fundamentals, asynchronous programming with APIs, data manipulation with functional array methods, and dynamic data visualization with **Leaflet.js**, **billboard.js**, and **D3.js**.
