@@ -1,0 +1,33 @@
+Live reload enabled. 127.0.0.1:5500:37:13
+-------------------------------- main.js:19:17
+Gunther Count: 1 main.js:20:17
+-------------------------------- main.js:23:17
+Total Runtime Minutes: 7080 main.js:24:17
+-------------------------------- main.js:27:17
+Total episodes airing in year 2000: 25 main.js:28:17
+-------------------------------- main.js:31:17
+Female Cast Members: main.js:32:17
+Array(3) [ "Jennifer Aniston", "Courteney Cox", "Lisa Kudrow" ]
+main.js:33:17
+-------------------------------- main.js:37:17
+Episodes that mention Ursula: main.js:38:17
+Array(3) [ "The One Where Chandler Can't Cry", "The One Where They All Turn Thirty", "The One With the Stain" ]
+main.js:39:17
+-------------------------------- main.js:43:17
+Cast Members over 55: main.js:44:17
+Array(4) [ "Courteney Cox", "Lisa Kudrow", "Matt LeBlanc", "David Schwimmer" ]
+main.js:45:17
+-------------------------------- main.js:49:17
+Total runtime in minutes excluding Season 6: 6330 main.js:50:17
+-------------------------------- main.js:54:17
+Episode JSON for first four seasons: main.js:55:17
+Array(97) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+main.js:56:17
+-------------------------------- main.js:59:17
+Tally of episodes by season: main.js:60:17
+Object { 1: 24, 2: 24, 3: 25, 4: 24, 5: 24, 6: 25, 7: 24, 8: 24, 9: 24, 10: 18 }
+main.js:61:17
+-------------------------------- main.js:65:17
+Capitalized Friends main.js:66:17
+Array(236) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+main.js:67:17

@@ -1,0 +1,10 @@
+Royal Flush -  https://prog2700.onrender.com/pokerhandtest/royalflush
+Straight Flush - https://prog2700.onrender.com/pokerhandtest/straightflush
+Four of a kind - https://prog2700.onrender.com/pokerhandtest/fourofakind
+Full House - https://prog2700.onrender.com/pokerhandtest/fullhouse
+Flush - https://prog2700.onrender.com/pokerhandtest/flush
+Straight - https://prog2700.onrender.com/pokerhandtest/straight
+Three of a kind - https://prog2700.onrender.com/pokerhandtest/threeofakind
+Two Pair - https://prog2700.onrender.com/pokerhandtest/twopair
+One Pair - https://prog2700.onrender.com/pokerhandtest/onepair
+High Card - https://prog2700.onrender.com/pokerhandtest/highcard
