@@ -1,4 +1,4 @@
-# 🧠 JavaScript Projects – Client-Side Programming (PROG2700)
+# 🧠 JavaScript Projects – Client-Side Programming
 
 **Course**: PROG2700 – Client-Side Programming  
 **Instructor**: Carson Kuzniar  
