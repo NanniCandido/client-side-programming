@@ -69,7 +69,7 @@ This repository presents selected assignments that explore JavaScript fundamenta
 
 ### 📺 Friends API + Custom API Charts:
 - Used the **TV Maze API** to visualize episode and cast data from the TV show *Friends*
-- Created 5+ custom charts including:
+- Created 5+ custom charts, including:
   - Bar charts, pie charts, time series (with delay-loaded data)
 - Fetched and processed external JSON data from a second public API (custom choice)
 - Ensured all logic was encapsulated in an IIFE and followed clean code practices
@@ -88,10 +88,5 @@ This repository presents selected assignments that explore JavaScript fundamenta
 
 ---
 
-## 📫 Contact
 
-Elaine C. da Silva  
-✉️ [nannicandido@gmail.com](mailto:nannicandido@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/elaine-candido-da-silva)  
-📂 [GitHub Portfolio](https://github.com/NanniCandido)
 
