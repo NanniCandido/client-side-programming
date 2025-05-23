@@ -88,5 +88,6 @@ This repository presents selected assignments that explore JavaScript fundamenta
 
 ---
 
-
+## Acknowledgments
+Special thanks to **Carson Kuzniar** for guidance throughout the course.
 
